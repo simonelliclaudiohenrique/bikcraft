@@ -1,6 +1,12 @@
 <h1 align="center">
+    <img width="60" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/person-biking_1f6b4.png">
     BIKCRAFT
+    <img width="60" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/person-biking_1f6b4.png">
 </h1>
+
+<h2>
+   Acesse <a href="https://simonelliclaudiohenrique.github.io/bikcraft/">bikcraft-site</a>
+</h2>
 
 <img align="left" width="47%" src="https://user-images.githubusercontent.com/80367725/200149852-21fd5ee9-3a3d-4777-a74b-a706ff22d87c.png">
 
